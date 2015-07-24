@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/robotcub/!svn/ver/11440/trunk/iCub/contrib/src/crawling/src/planner/crawlPlanner
+END
+Potential.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/robotcub/!svn/ver/10561/trunk/iCub/contrib/src/crawling/src/planner/crawlPlanner/Potential.cpp
+END
+Potential.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/robotcub/!svn/ver/10561/trunk/iCub/contrib/src/crawling/src/planner/crawlPlanner/Potential.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/robotcub/!svn/ver/11440/trunk/iCub/contrib/src/crawling/src/planner/crawlPlanner/main.cpp
+END
+CrawlPlanner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/robotcub/!svn/ver/11440/trunk/iCub/contrib/src/crawling/src/planner/crawlPlanner/CrawlPlanner.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/robotcub/!svn/ver/10561/trunk/iCub/contrib/src/crawling/src/planner/crawlPlanner/CMakeLists.txt
+END
+CrawlPlanner.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/robotcub/!svn/ver/11440/trunk/iCub/contrib/src/crawling/src/planner/crawlPlanner/CrawlPlanner.h
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/robotcub/!svn/ver/11611/trunk/iCub/contrib/src/crawling/src/planner/plannerSupervisor
+END
+Thing.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/robotcub/!svn/ver/11440/trunk/iCub/contrib/src/crawling/src/planner/plannerSupervisor/Thing.h
+END
+Patch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/robotcub/!svn/ver/10561/trunk/iCub/contrib/src/crawling/src/planner/plannerSupervisor/Patch.cpp
+END
+PlannerSupervisor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/robotcub/!svn/ver/10561/trunk/iCub/contrib/src/crawling/src/planner/plannerSupervisor/PlannerSupervisor.cpp
+END
+WorldDrawingArea.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/robotcub/!svn/ver/11440/trunk/iCub/contrib/src/crawling/src/planner/plannerSupervisor/WorldDrawingArea.h
+END
+Gui.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/robotcub/!svn/ver/10561/trunk/iCub/contrib/src/crawling/src/planner/plannerSupervisor/Gui.cpp
+END
+Patch.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/robotcub/!svn/ver/10561/trunk/iCub/contrib/src/crawling/src/planner/plannerSupervisor/Patch.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/robotcub/!svn/ver/10561/trunk/iCub/contrib/src/crawling/src/planner/plannerSupervisor/main.cpp
+END
+PlannerSupervisor.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/robotcub/!svn/ver/10561/trunk/iCub/contrib/src/crawling/src/planner/plannerSupervisor/PlannerSupervisor.h
+END
+Gui.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/robotcub/!svn/ver/10561/trunk/iCub/contrib/src/crawling/src/planner/plannerSupervisor/Gui.h
+END
+Thing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/robotcub/!svn/ver/10561/trunk/iCub/contrib/src/crawling/src/planner/plannerSupervisor/Thing.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/robotcub/!svn/ver/11611/trunk/iCub/contrib/src/crawling/src/planner/plannerSupervisor/CMakeLists.txt
+END
+WorldDrawingArea.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/robotcub/!svn/ver/10561/trunk/iCub/contrib/src/crawling/src/planner/plannerSupervisor/WorldDrawingArea.cpp
+END
+GlobalStuff.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/robotcub/!svn/ver/10561/trunk/iCub/contrib/src/crawling/src/planner/plannerSupervisor/GlobalStuff.h
+END
